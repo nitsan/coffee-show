@@ -222,6 +222,7 @@ ul.sf-menu>li.current>a strong, ul.sf-menu>li.sfHover>a strong, ul.sf-menu>li>a:
 		position: relative;
 		outline: none !important;
 		z-index: 1000;
+		direction: rtl;
 	}
 	nav{min-height: 30px;}
 
