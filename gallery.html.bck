@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+		<head>
+		<title>Coffe Show | גלריה</title>
+		<meta charset="utf-8">
+		<meta name = "format-detection" content = "telephone=no" />
+        <link rel="apple-itouch-icon" href="images/fav128.png">
+        <link rel="icon" href="images/fav128.png" type="image/x-icon">
+        <link rel="shortcut icon" href="images/fav128.png" type="image/x-icon" />
+		<link rel="stylesheet" href="css/style.css">
+		<script src="js/jquery.js"></script>
+		<script src="js/jquery-migrate-1.1.1.js"></script>
+		<script src="js/jquery.easing.1.3.js"></script>
+		<script src="js/scroll_to_top.js"></script>
+		<script src="js/script.js"></script>
+		<script src="js/jquery.equalheights.js"></script>
+		<script src="js/superfish.js"></script>
+		<script src="js/jquery.mobilemenu.js"></script>
+		<script src="js/touchTouch.jquery.js"></script>
+		<script src="js/jquery.fancybox.pack.js"></script>
+		<script src="js/jquery.tools.min.js"></script>
+
+		<!-- font-awesome font -->
+		<link rel="stylesheet" href="font/font-awesome.css" type="text/css" media="screen">
+		<!-- fontello font -->
+
+		<!--[if lt IE 8]>
+		 <div style=' clear: both; text-align:center; position: relative;'>
+			<a href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home?ocid=ie6_countdown_bannercode">
+				<img src="http://storage.ie6countdown.com/assets/100/images/banners/warning_bar_0000_us.jpg" border="0" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today." />
+			</a>
+		</div>
+	 <![endif]-->
+	 <!--[if lt IE 9]>
+			<script src="js/html5shiv.js"></script>
+		<link rel="stylesheet" type="text/css" media="screen" href="css/ie.css">
+	 <![endif]-->
+			<script>
+			  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+			  ga('create', 'UA-52057782-1', 'coffee-show.co.il');
+			  ga('send', 'pageview');
+			</script>
+		</head>
+<body>
+<!--button back top-->
+<div id="back-top"></div>    
+<div class="main">
+	<div class="div-content">  
+
+
+<!--==============================header=================================-->
+			<header  class="content_header">
+                <div class="header_cont">
+
+                    <nav>
+                        <ul class="sf-menu header_menu">
+                            <li><a href="index.html"><span></span>אודות<strong></strong></a></li>
+                            <li><a href="reservations.html">הזמנות<strong></strong></a></li>
+                            <li><a href="menu.html">התפריט שלנו<strong></strong></a></li>
+                            <li class="current"><a href="gallery.html">גלריה<strong></strong></a></li>
+                            <li><a href="contacts.html">צור קשר<strong></strong></a></li>
+                        </ul>
+                    </nav>
+                    <h1><a href="index.html"><img src="images/coffeeShowLogoSmall.jpg" alt="CoffeeShow"></a></h1>
+
+                </div>
+			</header>
+
+<!--=======content================================-->
+
+
+
+
+
+        <h4 class="center-text">בקרוב יעלה עמוד זה</h4>
+			<!--<div class="container_16">-->
+				<!--<div class="grid_16">-->
+					<!---->
+					<!---->
+					<!--<div class="grid_11 alpha">-->
+						<!--<h4>Today's Special Offers</h4>-->
+						<!--<p><span class="txt4">Curabitur mollis, justo et euismod consectetur, justo mauris dapibu.</span><br>Maecenas vel accumsan tortor? In hac habitasse platea dictumst. Morbi a viverra mi, et semper ante. Phasellus sodales imperdiet accumsan. Praesent vel diam sagittis, feugiat nunc a, convallis elit. Aliquam ut malesuada ligula. Donec vel lobortis risus. Duis euismod, nunc.</p>-->
+						<!--<div class="grid_5 alpha">-->
+							<!--<ul class="listWithMarker">-->
+								<!--<li><a href="#">Dolores eo qui ratione voluptate</a></li>-->
+								<!--<li><a href="#">Msequi nesciunt neque</a></li>-->
+								<!--<li><a href="#">Estqui dolorem ipsum quia dolor</a></li>-->
+								<!--<li><a href="#">Sit amet consectetur adipisci</a></li>-->
+							<!--</ul>-->
+						<!--</div>-->
+						<!--<div class="grid_6 omega">-->
+							<!--<ul class="listWithMarker">-->
+								<!--<li><a href="#">Quia non numquam eius</a></li>-->
+								<!--<li><a href="#">Tempora Incidunt ut labore et</a></li>-->
+								<!--<li><a href="#">Aliquam quaerat volupta</a></li>-->
+								<!--<li><a href="#">Enim ad minima veniam quis</a></li>-->
+							<!--</ul>-->
+						<!--</div>-->
+						<!---->
+						<!--<div class="clear"></div>-->
+						<!---->
+						<!--<h4 class="marTop5">Latest News &amp; Events</h4>-->
+						<!--<div class="wrapper">-->
+							<!--<img src="images/page4_pic1.jpg" alt="" class="img1">-->
+							<!--<p><span class="txt4"><time datetime="2013-01-02">01.02.2013</time><br>Mus ac arcu id ligula facilisis pretium eget. </span><br>Quisque ac lacinia velit. In dignissim tortor eget arcu interdum euismod. Sed ut felis scelerisque, dignissim nunc vitae; pretium mi. pretium eros, pulvinar varius massa.Vivamus quis dolor ut mauris ultrices porta! Cum sociis natoque penatibus et magnis dis parturient montes.</p>-->
+						<!--</div>-->
+						<!---->
+						<!--<div class="wrapper">-->
+							<!--<img src="images/page4_pic2.jpg" alt="" class="img1">-->
+							<!--<p><span class="txt4"><time datetime="2013-01-02">02.03.2013</time><br>Nullam eget pretium eros, pulvinar varius massa.</span><br>In dignissim tortor eget arcu interdum euismod. Sed ut felis scelerisque, dignissim nunc vitae; pretium mi. pretium eros, pulvinar varius massa.Vivamus quis dolor ut mauris ultrices porta! Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>-->
+						<!--</div>-->
+						<!---->
+						<!--<div class="wrapper">-->
+							<!--<img src="images/page4_pic3.jpg" alt="" class="img1">-->
+							<!--<p><span class="txt4"><time datetime="2013-01-02">03.04.2013</time><br>Etiam a arcu volutpat neque volutpat tristique.</span><br>Praesent vitae mattis arcu lectus sit amet sapien. Fusce in elit ulum leo. Maecenas sed tellus malesuada, tristique lorem at, adipiscing elit vitae, tincidunt posuere velit. Sed tortor libero, sapien purus, aliquet sed nisi ac, feugiat volutpat orci. Morbi quam eget odio tempor gravida. </p>-->
+						<!--</div>-->
+						<!--<a href="#" class="more_btn">all archives <img src="images/arrow2.png" alt="" class="no_resize"></a>-->
+						<!---->
+						<!---->
+				<!---->
+					<!--</div>-->
+					<!---->
+					<!--<div class="grid_5 omega">-->
+						<!--<h4>Thematic Links</h4>-->
+						<!--<ul class="listWithMarker v2">-->
+							<!--<li><a href="#">Beciegast nveriti vitaesaert viasead</a></li>-->
+							<!--<li><a href="#">Asety kertya aset aplicab oserde</a></li>-->
+							<!--<li><a href="#">Miuasera nerafae kertyera</a></li>-->
+							<!--<li><a href="#">Volernatur aut oditaut onsequuntur</a></li>-->
+							<!--<li><a href="#">Dolores eo qui ratione voluptate</a></li>-->
+							<!--<li><a href="#">Msequi nesciunt neque</a></li>-->
+							<!--<li><a href="#">Estqui dolorem ipsum quia dolor</a></li>-->
+							<!--<li><a href="#">Sit amet consectetur adipisci</a></li>-->
+							<!--<li><a href="#">Quia non numquam eius</a></li>-->
+							<!--<li><a href="#">Tempora Incidunt ut labore et</a></li>-->
+							<!--<li><a href="#">Aliquam quaerat volupta</a></li>-->
+							<!--<li><a href="#">Enim ad minima veniam quis</a></li>-->
+						<!--</ul>-->
+						<!---->
+						<!--<div class="clear"></div>-->
+						<!---->
+						<!--<h4>What People Say About Us</h4>-->
+						<!--<blockquote>-->
+							<!--<p>Quisque ac lacinia velit. In dignissim tortor eget arcu interdum euismod.  nunc vitae; pretium mi. pretium eros, pulvinar varius massa.Vivamus quis sociis natoque penatibus et magnis dis parturient montes.</p>-->
+							<!--<p><span class="txt4">Mark Johnson<br><a href="#" class="link2">info@demolink.org</a></span></p>-->
+						<!--</blockquote>-->
+						<!---->
+						<!--<blockquote>-->
+							<!--<p>Pellentesque convallis vel ipsum vel lobortis? Proin nec posuere uisque turpis mi consectetur mi; in consequat sem ipsum ut erat. Praesent congue, dapibus odio, vitae mattis arcu lectus sit amet sapien fusce.</p>-->
+							<!--<p><span class="txt4">Jessica Priston<br><a href="#" class="link2">info@demolink.org</a></span></p>-->
+						<!--</blockquote>-->
+					<!--</div>-->
+					<!---->
+					<!---->
+					<!---->
+					<!---->
+					<!---->
+					<!--<div class="clear"></div>-->
+						 <!---->
+					 <!--</div>-->
+				<!--</div>-->
+
+	 </div>
+	 <!--=======footer=================================-->
+    <footer>
+        <div class="container_16">
+            <div class="grid_16">
+                <div class="footer_priv">
+                    <div class="social">
+                        <!--<a href="#"><img src="images/soc_icon_1.png" alt=""></a>-->
+                        <a href="http://plus.google.com/u/0/b/100564339285915937824/100564339285915937824" target="_blank"><img src="images/soc_icon_2.png" alt=""></a>
+                        <a href="http://www.facebook.com/coffeeshow2" target="_blank"><img src="images/soc_icon_3.png" alt=""></a>
+                        <!--<a href="#"><img src="images/soc_icon_4.png" alt=""></a>-->
+                    </div>
+                    <p>Nitsan Zohar &copy; 2014 &bull; <a href="policy.html">תנאי שימוש</a><br><!--{%FOOTER_LINK} --></p>
+                </div>
+            </div>
+        </div>
+    </footer>
+</div>
+</body>
+</html>
