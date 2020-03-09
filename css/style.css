@@ -811,3 +811,8 @@ and (max-device-width : 480px){
 		display: block;
 	}
 }
+
+.external-link {
+ text-transform: none !important;
+	font-weight: bold !important;
+}
