@@ -37,6 +37,7 @@
     <link rel="stylesheet" type="text/css" media="screen" href="css/ie.css">
     <![endif]-->
 	<script>
+                if (window.location.href.indexOf("file") !== 0){
 	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -44,6 +45,7 @@
 
 	  ga('create', 'UA-52057782-1', 'coffee-show.co.il');
 	  ga('send', 'pageview');
+                }
 	</script>
 </head>
 <body>
@@ -60,6 +62,7 @@
                 <nav>
                     <ul class="sf-menu header_menu">
                         <li><a href="index.html"><span></span>אודות<strong></strong></a></li>
+									<li><a class="external-link" href="https://buyme.co.il/affl/supplier/11897916/order?aff=11897952" target="_blank">Gift Card<strong></strong></a></li>
                         <li><a href="reservations.html">הזמנות ואירועים<strong></strong></a></li>
                         <li><a href="menu.html">התפריט שלנו<strong></strong></a></li>
                         <li><a href="gallery.html">גלריה<strong></strong></a></li>
@@ -92,8 +95,8 @@
                         <address>
                             <dl>
                                 <dt><b class="orange">Coffee Show - קופי שואו</b><br><br>רחוב יעקב 43, רחובות</dt>
-                                <dd><span>טלפון:</span>08-936-2113</dd>
-                                <dd><span>פקס</span>08-936-2113</dd>
+                                <dd><span>טלפון:</span>052-623-2525</dd>
+//                                 <dd><span>פקס</span>08-936-2113</dd>
                                 <!--<dd>מייל: <a href="#" class="link2">mail@demolink.org</a></dd>-->
                             </dl>
                         </address>
@@ -145,7 +148,7 @@
                 <div class="footer_priv">
                     <div class="social">
                         <!--<a href="#"><img src="images/soc_icon_1.png" alt=""></a>-->
-                        <!--<a href="#"><img src="images/soc_icon_2.png" alt=""></a>-->
+                        <a href="http://plus.google.com/u/0/b/100564339285915937824/100564339285915937824" target="_blank"><img src="images/soc_icon_2.png" alt=""></a>
                         <a href="http://www.facebook.com/coffeeshow2" target="_blank"><img src="images/soc_icon_3.png" alt=""></a>
                         <!--<a href="#"><img src="images/soc_icon_4.png" alt=""></a>-->
                     </div>
